@@ -314,7 +314,7 @@ Neste momento, estou construindo minha base em Cloud por meio de estudos, certif
 
 
 ## Sobre a Trilha AWS Skill Builder
-Lab 4 — AWS SimuLearn: Meu Primeiro Banco de Dados NoSQL
+Lab 4 — AWS SimuLearn: Montando um Banco de Dados NoSQL
 
 * Prática realizada. Conhecimento construído. Próximo laboratório.
 
